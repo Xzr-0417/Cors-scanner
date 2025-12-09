@@ -1,4 +1,4 @@
-# CORS Payload Templates
+# CORS franziscanner
 
 Набор шаблонов payload’ов и алгоритм анализа ответов для автоматизированного поиска CORS‑уязвимостей.
 
